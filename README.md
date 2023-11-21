@@ -1,4 +1,4 @@
-# BitcoinPricePrediction
+# Bitcoin Price Prediction
 The aim of this project is to predict the price of the Bitcoin cryptocurrency (BTC). The prediction model relies on data from the daily edits of the English Bitcoin Wikipedia page and up-to-date opening and closing dates of the currency from Yahoo Finance.
 
 ## Steps Involved
